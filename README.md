@@ -28,6 +28,10 @@ Should yeild:
 ['--hello', 'world', '--no-spin']
 ```
 
+## See Also
+
+* [dargs](https://github.com/sindresorhus/dargs)
+
 ## License
 
 MIT. See [LICENSE.md](http://github.com/hughsk/maximist/blob/master/LICENSE.md) for details.
