@@ -22,7 +22,7 @@ require('maximist')({
 })
 ```
 
-Should yield:
+Should yeild:
 
 ``` javascript
 ['--hello', 'world', '--no-spin']
